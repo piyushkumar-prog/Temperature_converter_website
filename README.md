@@ -13,6 +13,12 @@ HTML: Provides the structure and content of the website.
 CSS: Styles the website for visual appeal and responsiveness.
 JavaScript: Handles user interaction and performs the temperature conversion calculation.
 
+
+# Screenshot:
+![Screenshot](https://github.com/piyushkumar-prog/OIBSIP-Level-1-Task-3-Temperature_converter_website/blob/main/screenshot_.png)
+
+
+
 # Contributing:
 
 I encourage contributions to this project! Feel free to fork the repository, make your enhancements (e.g., adding additional temperature scales, improving the user interface), and submit a pull request for review and potential merging.
